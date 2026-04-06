@@ -1,4 +1,4 @@
-# LILA BLACK — Player Journey Visualizer
+# LILA BLACK: Player Journey Visualizer
 
 A browser-based tool for Level Designers to explore player behavior 
 across LILA BLACK's three maps using 5 days of production gameplay data.
